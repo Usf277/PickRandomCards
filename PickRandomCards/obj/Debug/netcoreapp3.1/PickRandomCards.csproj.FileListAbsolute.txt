@@ -1,0 +1,14 @@
+G:\first head c#\PickRandomCards\PickRandomCards\bin\Debug\netcoreapp3.1\PickRandomCards.exe
+G:\first head c#\PickRandomCards\PickRandomCards\bin\Debug\netcoreapp3.1\PickRandomCards.deps.json
+G:\first head c#\PickRandomCards\PickRandomCards\bin\Debug\netcoreapp3.1\PickRandomCards.runtimeconfig.json
+G:\first head c#\PickRandomCards\PickRandomCards\bin\Debug\netcoreapp3.1\PickRandomCards.runtimeconfig.dev.json
+G:\first head c#\PickRandomCards\PickRandomCards\bin\Debug\netcoreapp3.1\PickRandomCards.dll
+G:\first head c#\PickRandomCards\PickRandomCards\bin\Debug\netcoreapp3.1\PickRandomCards.pdb
+G:\first head c#\PickRandomCards\PickRandomCards\obj\Debug\netcoreapp3.1\PickRandomCards.csproj.AssemblyReference.cache
+G:\first head c#\PickRandomCards\PickRandomCards\obj\Debug\netcoreapp3.1\PickRandomCards.GeneratedMSBuildEditorConfig.editorconfig
+G:\first head c#\PickRandomCards\PickRandomCards\obj\Debug\netcoreapp3.1\PickRandomCards.AssemblyInfoInputs.cache
+G:\first head c#\PickRandomCards\PickRandomCards\obj\Debug\netcoreapp3.1\PickRandomCards.AssemblyInfo.cs
+G:\first head c#\PickRandomCards\PickRandomCards\obj\Debug\netcoreapp3.1\PickRandomCards.csproj.CoreCompileInputs.cache
+G:\first head c#\PickRandomCards\PickRandomCards\obj\Debug\netcoreapp3.1\PickRandomCards.dll
+G:\first head c#\PickRandomCards\PickRandomCards\obj\Debug\netcoreapp3.1\PickRandomCards.pdb
+G:\first head c#\PickRandomCards\PickRandomCards\obj\Debug\netcoreapp3.1\PickRandomCards.genruntimeconfig.cache
